@@ -6,7 +6,7 @@
 
 ### *Containerized Dash app deployed on Azure*
 
-Movie Sentiment Analyser that takes input as movie name then scrapes Rotten Tomatoes for user and critic reviews (60 each) , then analyses the sentiment using Model trained and performs EDA 
+Movie Sentiment Analyser that takes input as movie name, scrapes Rotten Tomatoes for user and critic reviews (60 each), then analyses the sentiment using Model trained and performs EDA 
 
 ---
 
