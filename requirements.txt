@@ -1,4 +1,4 @@
-tensorflow-cpu==2.3.0
+tensorflow-cpu==2.3.1
 nltk==3.5
 dash_core_components==1.11.0
 plotly==4.9.0
