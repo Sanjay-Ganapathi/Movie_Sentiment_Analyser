@@ -1,5 +1,5 @@
 # Movie Sentiment Analyser
-### [Link](https://sentimovie.azurewebsites.net/)
+### [Link](https://moviesenti.azurewebsites.net/)
 ![alt text](https://github.com/Sanjay-Ganapathi/Movie_Sentiment_Analyser/blob/main/img/front.png "front page")
 ![alt text](https://github.com/Sanjay-Ganapathi/Movie_Sentiment_Analyser/blob/main/img/bottom.png "bottom")
 ***
